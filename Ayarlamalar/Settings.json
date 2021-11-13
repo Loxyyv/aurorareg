@@ -1,0 +1,59 @@
+{
+  "Server": {
+    "ID": "878405787356123146",
+    "Tag": "ꁴ",
+    "Register_Name": "ꁴ İsim • Yaş"
+  },
+
+  "Roles": {
+    "Register_Permission": "878422865643466792",
+    "Unregistered": "878450938736697404",
+    "Man": ["", ""],
+    "Women": ["", ""],
+    "Booster": [""],
+    "Tagged": "",
+    "Bots": ""
+  },
+
+  "Channels": {
+    "Kurallar": "878422246375428156",
+    "Tag_Log": "",
+    "Register_Chat": "878423716734840852",
+    "Welcome": "878423716734840852"
+  },
+
+  "Limits": {
+    "Age_Limit": 10,
+    "Cooldown": 2000
+  },
+
+  "Emojis": {
+    "Check": "<a:ringed_planet:906626391703949333>",
+    "Delete": "<a:white_flower:906626513481392149>",
+    "Safe": "<a:cyclone:906625835514069042>",
+    "Dangerous": "<a:interrobang:906626573774503996>",
+    "Emoji_1": "<a:ringed_planet:906626391703949333>",
+    "Emoji_2": "<a:white_flower:906626513481392149>",
+    "Emoji_3": "<a:comet:906626335676452895>",
+    "Emoji_4": "<a:ringed_planet:906626391703949333>",
+    "Emoji_5": "<a:white_flower:906626513481392149>",
+    "Emoji_6": "<a:comet:906626335676452895>",
+    "Sayı_0": ":zero:",
+    "Sayı_1": ":one:",
+    "Sayı_2": ":two:",
+    "Sayı_3": ":three:",
+    "Sayı_4": ":four:",
+    "Sayı_5": ":fife:",
+    "Sayı_6": ":six:",
+    "Sayı_7": ":seven:",
+    "Sayı_8": ":eight:",
+    "Sayı_9": ":nine:"
+  },
+
+  "Embed": {
+    "Color": "#5865F2",
+    "Image": "https://cdn.glitch.me/26b6b254-0913-43a3-875e-2be8ab1e3423%2Fstandard_1.gif?v=1636221802461",
+    "Footer": "Loxyy ❤ Aurora",
+    "Timeout": 10000
+  }
+}
